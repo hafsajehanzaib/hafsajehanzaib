@@ -1,5 +1,5 @@
-<h1> align="center" Hi 👋, I'm hafsa Jehanzaib </h1>
-<h3> align="center">A passionate Software Quality Assurance</h3>
+<h1 align="center">Hi 👋, I'm hafsa Jehanzaib</h1>
+<h3 align="center">A passionate Software Quality Assurance</h3>
 
 <!--
 **hafsajehanzaib/hafsajehanzaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
