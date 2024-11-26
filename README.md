@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hafsa Jehanzaib</h1>
+<h1 align="center">Hi 👋, I'm Hafsa Jehanzaib</h1>
 <h3 align="center">A passionate Software Quality Assurance</h3>
 
 <!--
